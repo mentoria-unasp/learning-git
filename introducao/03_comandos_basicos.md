@@ -16,7 +16,7 @@ git status
     </li>
 </ul>
 
-<h3>Adicionar arquivo/diretório (Stage3 Area) </h3>
+<h3>Adicionar arquivo/diretório (Stage Area) </h3>
 
 <strong style="font-size:12px; color:gray;"> Adicionar um aquivo específico</strong>
 ```
@@ -79,6 +79,14 @@ git push origin master
 ```
 git push
 ```
+
+<h3>Atualizar arquivos/diretórios</h3>
+
+
+```
+git pull 
+```
+
 
 <h3>Clonar um repositório existente</h3>
 
