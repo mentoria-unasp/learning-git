@@ -1,5 +1,5 @@
 ## O que precisa para começar?
-<hr>
+
 
 ## Instalação
 <p>Primeiramente, necessita ter o git instalado no seu computador. No link abaixo você fará o download no site oficial do git.</p>

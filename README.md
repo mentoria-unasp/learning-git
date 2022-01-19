@@ -27,5 +27,5 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
   * <del> [Como Usar](estados/02_modificados.md) </del>
 
 ## Contribuições
-<hr>
+
 Sinta-se a vontade para adicionar mais informações ou realizar correções. Ficaremos muito contente e grato com sua contribuição.
