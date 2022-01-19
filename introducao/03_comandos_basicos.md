@@ -1,11 +1,13 @@
 ## Comandos Básicos
-<hr>
 
-<p>Para criar um novo repositório</p>
+
+<h5>Para criar um novo repositório</h5>
+
 ```
 git init
 ```
-<p>Veficando estado dos arquivos/diretório</p>
+<h5>Veficando estado dos arquivos/diretório</h5>
+
 ```
 git status
 ```
@@ -14,65 +16,71 @@ git status
     </li>
 </ul>
 
-<p>Adicionar arquivo/diretório (Staged Area) <p>
+<h5>Adicionar arquivo/diretório (Staged Area) <h5>
 
-<strong style="font-size:12px"> Adicionar um aquivo específico</strong>
+<strong style="font-size:12px; color:gray;"> Adicionar um aquivo específico</strong>
 ```
 git add nome_arquivo.txt
 ```
-<strong style="font-size:12px"> Adicionar todos arquivos/diretórios</strong>
+<strong style="font-size:12px; color:gray;"> Adicionar todos arquivos/diretórios</strong>
 ```
 git add .
 ```
 
-<p>Remover arquivo/diretório<p>
+<h5>Remover arquivo/diretório<h5>
 
-<strong style="font-size:12px"> Remover um aquivo específico</strong>
+<strong style="font-size:12px; color:gray;"> Remover um aquivo específico</strong>
 ```
 git rm nome_arquivo.txt
 ```
-<strong style="font-size:12px"> Remover diretório</strong>
+<strong style="font-size:12px; color:gray;"> Remover diretório</strong>
 ```
 git rm -r diretorio
 ```
-<p>Comitando arquivos/diretórios</p>
-<strong style="font-size:12px"> Comitar um arquivo</strong>
+<h5>Comitando arquivos/diretórios</h5>
+
+<strong style="font-size:12px; color:gray;"> Comitar um arquivo</strong>
+
 ```
 git commit meu_arquivo.txt
 ```
-<strong style="font-size:12px"> Comitar um vários arquivo</strong>
+<strong style="font-size:12px; color:gray;"> Comitar um vários arquivo</strong>
+
 ```
 git commit meu_arquivo.txt outro_arquivo.txt
 ```
-<strong style="font-size:12px"> Comitar informando uma mensagem</strong>
+<strong style="font-size:12px; color:gray;"> Comitar informando uma mensagem</strong>
+
 ```
 git commit meu_arquivo.txt -m "mensagem de commit"
 ```
 
-<p>Criando Branch (Ramificação)</p>
+<h5>Criando Branch (Ramificação)</h5>
+
 ```
 git checkout -b nome_da_branch
 ```
-<strong style="font-size:12px"> Trocando de branch</strong>
+<strong style="font-size:12px; color:gray;"> Trocando de branch</strong>
+
 ```
 git checkout nome_da_branch
 ```
 
-<p>Enviar arquivos/diretórios para repositório remoto</p>
+<h5>Enviar arquivos/diretórios para repositório remoto</h5>
 
-<strong style="font-size:12px">  Primeiro push de um repositório deve conter o nome do repositório remoto e o branch.</strong>
+<strong style="font-size:12px; color:gray;">  Primeiro push de um repositório deve conter o nome do repositório remoto e o branch.</strong>
 
 ```
 git push origin master
 ```
 
-<strong style="font-size:12px">Os próximos push não precisa informar o repositório remoto e nem a branch</strong>
+<strong style="font-size:12px; color:gray;">Os próximos push não precisa informar o repositório remoto e nem a branch</strong>
 
 ```
 git push
 ```
 
-<p>Clonar um repositório existente</p>
+<h5>Clonar um repositório existente</h5>
 
 ```
 git clone git@github.com:mentoria-unasp/learning-git.git

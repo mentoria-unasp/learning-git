@@ -14,12 +14,14 @@
 
 <p>Antes de qualquer coisa, é necessário configurar o usuário local em seu computador atráves do <b>git config</b>.</p>
 
-<p>Para configurar o nome de usuário:</p>
+<h5>Para configurar o nome de usuário:</h5>
+
 ```
 git config --global user.name "Seu nome"
 ```
 
-<p>Para configurar o email do usuário:</p>
+<h5>Para configurar o email do usuário:</h5>
+
 ```
 git config --global user.email "seu-email@example.com"
 ```
