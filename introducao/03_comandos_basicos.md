@@ -16,7 +16,7 @@ git status
     </li>
 </ul>
 
-<h5>Adicionar arquivo/diretório (Staged Area) <h5>
+<h5>Adicionar arquivo/diretório (Staged Area) </h5>
 
 <strong style="font-size:12px; color:gray;"> Adicionar um aquivo específico</strong>
 ```
@@ -27,7 +27,7 @@ git add nome_arquivo.txt
 git add .
 ```
 
-<h5>Remover arquivo/diretório<h5>
+<h5>Remover arquivo/diretório</h5>
 
 <strong style="font-size:12px; color:gray;"> Remover um aquivo específico</strong>
 ```
