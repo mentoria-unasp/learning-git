@@ -1,12 +1,12 @@
 ## Comandos Básicos
 
 
-<h5>Para criar um novo repositório</h5>
+<h3>Para criar um novo repositório</h3>
 
 ```
 git init
 ```
-<h5>Veficando estado dos arquivos/diretório</h5>
+<h3>Veficando estado dos arquivo3/diretório</h5>
 
 ```
 git status
@@ -16,7 +16,7 @@ git status
     </li>
 </ul>
 
-<h5>Adicionar arquivo/diretório (Staged Area) </h5>
+<h3>Adicionar arquivo/diretório (Stage3 Area) </h5>
 
 <strong style="font-size:12px; color:gray;"> Adicionar um aquivo específico</strong>
 ```
@@ -27,7 +27,7 @@ git add nome_arquivo.txt
 git add .
 ```
 
-<h5>Remover arquivo/diretório</h5>
+<h3>Remover arquivo/diretório</h3>
 
 <strong style="font-size:12px; color:gray;"> Remover um aquivo específico</strong>
 ```
@@ -37,7 +37,7 @@ git rm nome_arquivo.txt
 ```
 git rm -r diretorio
 ```
-<h5>Comitando arquivos/diretórios</h5>
+<h3>Comitando arquivos/diretórios</h3>
 
 <strong style="font-size:12px; color:gray;"> Comitar um arquivo</strong>
 
@@ -55,7 +55,7 @@ git commit meu_arquivo.txt outro_arquivo.txt
 git commit meu_arquivo.txt -m "mensagem de commit"
 ```
 
-<h5>Criando Branch (Ramificação)</h5>
+<h3>Criando Branch (Ramificação)</h3>
 
 ```
 git checkout -b nome_da_branch
@@ -66,7 +66,7 @@ git checkout -b nome_da_branch
 git checkout nome_da_branch
 ```
 
-<h5>Enviar arquivos/diretórios para repositório remoto</h5>
+<h3>Enviar arquivos/diretórios par3 repositório remoto</h5>
 
 <strong style="font-size:12px; color:gray;">  Primeiro push de um repositório deve conter o nome do repositório remoto e o branch.</strong>
 
@@ -80,7 +80,7 @@ git push origin master
 git push
 ```
 
-<h5>Clonar um repositório existente</h5>
+<h3>Clonar um repositório existente</h3>
 
 ```
 git clone git@github.com:mentoria-unasp/learning-git.git
