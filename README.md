@@ -13,16 +13,25 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
   * [Tipos de Repositório](repositorio/02_tipos_de_repositorio.md) 
   * [Vinculando Repositórios](repositorio/03_vinculando_repositorios.md) 
 * Estado dos Arquivos
-  * <del> [O Que São os Estados?](estados/01_o_que_sao_os_estados.md)</del>
-  * <del> [Modificados](estados/02_modificados.md) </del>
-  * <del> [Preparados](estados/03_preparados.md) </del>
-  * <del> [Consolidados](estados/04_consolidados.md) </del>
+  * <del> [Entendendo os Estados]()</del>
+  * <del> [Modificados]() </del>
+  * <del> [Preparados]() </del>
+  * <del> [Consolidados]() </del>
+* Usando o Git e o Github
+  * <del> [Criando Repositórios]()</del>
+  * <del> [Adicionando Arquivos]()</del>
+  * <del> [Removendo Arquivos]()</del>
+  * <del> [Sincronizando os Repositórios]()</del>
 * Git Flow
-  * <del> [O Que É Git Flow](estados/01_o_que_sao_os_estados.md)</del>
-  * <del> [Implementação](estados/02_modificados.md) </del>
+  * <del> [Entendendo Branchs]()</del>
+  * <del> [Entendendo Merge]()</del>
+  * <del> [O Que É Git Flow]()</del>
+  * <del> [Implementação]() </del>
 * Commits Convencionais
-  * <del> [O Que São Commits Convencionais](estados/01_o_que_sao_os_estados.md)</del>
-  * <del> [Como Usar](estados/02_modificados.md) </del>
+  * <del> [O Que São Commits Convencionais]()</del>
+  * <del> [Como Usar]() </del>
+* Open Source
+  * <del> [Fazendo Contribuições]()</del>
 
 ## Contribuições
 
