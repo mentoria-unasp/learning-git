@@ -7,14 +7,15 @@ Para vincularmos os repositórios precisamos executar o seguinte comando em noss
 ```sh
   git remote add {{remote}} {{url}}
 ```
+* `remote` - É o nome que será usado para identificar a conexão entre os repositórios, geralmente o nome da conexão principal é `origin`
+
+* `url` - É a URL do repositório remoto da plataforma de hospedagem
+
 e.g.
 ```sh
   git remote add origin https://github.com/mentoria-unasp/repositorio-teste
 ```
 
-* `remote` - É o nome que será usado para identificar a conexão entre os repositórios, geralmente o nome da conexão principal é `origin`
-
-* `url` - É a URL do repositório remoto da plataforma de hospedagem
 
 Executando esse comando os repositórios estarão conectados e já é possível sincronizar os arquivos.
 
