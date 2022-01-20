@@ -5,9 +5,9 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
 
 ## Tópicos abordados
 * Introdução
-  * <del>[O Que é Git?](introducao/01_o_que_e_git.md)</del>
-  * <del>[Instalação e Configuração](introducao/02_instalacao_e_configuracao.md)</del>
-  * <del>[Comandos Básicos](introducao/03_comandos_basicos.md)</del>
+  * [O Que é Git?](introducao/01_o_que_e_git.md)
+  * [Instalação e Configuração](introducao/02_instalacao_e_configuracao.md)
+  * [Comandos Básicos](introducao/03_comandos_basicos.md)
 * Repositório
   * <del> [O Que é Um Repositório](repositorio/01_o_que_e_um_repositorio.md) </del>
   * <del> [Tipos de Repositório](repositorio/02_tipos_de_repositorio.md) </del>
