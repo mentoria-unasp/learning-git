@@ -3,7 +3,7 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
 
 ---
 
-## Tópicos abordados
+## Tópicos abordados 
 * Introdução
   * [O Que é Git?](introducao/01_o_que_e_git.md)
   * [Instalação e Configuração](introducao/02_instalacao_e_configuracao.md)
