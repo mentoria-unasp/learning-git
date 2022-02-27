@@ -13,10 +13,8 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
   * [Tipos de Repositório](repositorio/02_tipos_de_repositorio.md) 
   * [Vinculando Repositórios](repositorio/03_vinculando_repositorios.md) 
 * Estado dos Arquivos
-  * <del> [Entendendo os Estados]()</del>
-  * <del> [Modificados]() </del>
-  * <del> [Preparados]() </del>
-  * <del> [Consolidados]() </del>
+  *  [Entendendo os Estados](estado_dos_arquivos/01_entendendo_os_estados.md)
+  *  [Modificando os Estados](estado_dos_arquivos/02_modificando_os_estados.md)
 * Usando o Git e o Github
   * <del> [Criando Repositórios]()</del>
   * <del> [Adicionando Arquivos]()</del>
