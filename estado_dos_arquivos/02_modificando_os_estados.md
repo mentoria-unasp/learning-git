@@ -32,6 +32,11 @@ Modified &rarr; Staged
   git commit -m "docs: creating states section"
 ```
 
+Podemos visualizar os commits e os arquivos que foram alterados com o comando
+```sh
+  git log --stat
+```
+
 ## Links
 [Estados Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states)
 
