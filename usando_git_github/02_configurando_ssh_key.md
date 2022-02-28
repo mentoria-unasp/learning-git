@@ -15,15 +15,15 @@ Após abrir o programa aparecerá a tela abaixo:
 <br>
 <br>
 
- 1.Clique em `Help` 
+ 1.Clique em `Help` <br><br>
 <img src="../assets/git-gui-02.png" alt="Git GUI" title="Git GUI">
 <br><br>
 
-2.Clique em `Show SSH key`
+2.Clique em `Show SSH key`<br><br>
 <img src="../assets/git-gui-03.png" alt="Git GUI" title="Git GUI">
 <br><br>
 
-3.Clique em `Generate Key`
+3.Clique em `Generate Key`<br><br>
 <img src="../assets/git-gui-04.png" alt="Git GUI" title="Git GUI">
 <br><br>
 
@@ -48,7 +48,7 @@ Estamos quase Finalizando a associação da SSH Key. Realizado o passo acima ess
 <br><br>
 
 Clique em `New SSH Key`
-
+<br><br>
 <img src="../assets/associando-ssh-key-04.png" alt="SSH and GPG keys" title="SSH and GPG keys">
 <br><br>
 

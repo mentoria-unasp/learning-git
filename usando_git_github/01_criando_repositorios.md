@@ -40,5 +40,5 @@ Em seguida click no botão `Create repository` no final da página. Te redirecio
 # O que fazer agora?
 Antes de criar repositórios, adiconar arquivos, remover, editar...
   
-Aprenda [associar SSH key com GitHub](/introducao/0203_configurando_ssh_key.md).
+Aprenda [associar SSH key com GitHub](/usando_git_github/02_configurando_ssh_key.md).
 
