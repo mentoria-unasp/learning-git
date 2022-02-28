@@ -1,4 +1,4 @@
-# Adicionando Arquivos
+# Configurando SSH Key
 
 Para adicionar aquivos em seu repositório, primeiramennte é necessário associar uma <a href="https://en.wikipedia.org/wiki/Ssh-keygen" target="blank" title="O que é SSH Key?">SSH Key</a>. 
 
