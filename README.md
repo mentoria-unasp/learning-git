@@ -13,13 +13,13 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
   * [Tipos de Repositório](repositorio/02_tipos_de_repositorio.md) 
   * [Vinculando Repositórios](repositorio/03_vinculando_repositorios.md) 
 * Estado dos Arquivos
-  *  [Entendendo os Estados](estado_dos_arquivos/01_entendendo_os_estados.md)
-  *  [Modificando os Estados](estado_dos_arquivos/02_modificando_os_estados.md)
+  * [Entendendo os Estados](estado_dos_arquivos/01_entendendo_os_estados.md)
+  * [Modificando os Estados](estado_dos_arquivos/02_modificando_os_estados.md)
 * Usando o Git e o Github
-  * <del> [Criando Repositórios]()</del>
-  * <del> [Adicionando Arquivos]()</del>
-  * <del> [Removendo Arquivos]()</del>
-  * <del> [Sincronizando os Repositórios]()</del>
+  * [Criando Repositórios](usando_git_github/01_criando_repositorios.md)
+  * [Configurando SSH Key](usando_git_github/02_configurando_ssh_key.md)
+  * [Adicionando Arquivos](usando_git_github/03_adicionando_arquivos.md)
+  * [Removendo Arquivos](usando_git_github/04_removendo_arquivo.md)
 * Git Flow
   * <del> [Entendendo Branchs]()</del>
   * <del> [Entendendo Merge]()</del>
