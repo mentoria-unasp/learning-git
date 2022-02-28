@@ -63,4 +63,4 @@ Feito isso, clique em `Add SSH key` abaixo do campo `Key`. E Pronto! sua SSH Key
 
 Agora sim estamos prontos para adicionar nossos arquivos no repositório que criamos.
 
-[Adicionar Arquivos no repositório](/usando-git-github/03_adicionando_arquivos.md).  
+[Adicionar Arquivos no repositório](/usando_git_github/03_adicionando_arquivos.md).  
