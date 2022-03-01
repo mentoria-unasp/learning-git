@@ -21,10 +21,9 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de cont
   * [Adicionando Arquivos](usando_git_github/03_adicionando_arquivos.md)
   * [Removendo Arquivos](usando_git_github/04_removendo_arquivo.md)
 * Git Flow
-  * <del> [Entendendo Branchs]()</del>
-  * <del> [Entendendo Merge]()</del>
-  * <del> [O Que É Git Flow]()</del>
-  * <del> [Implementação]() </del>
+  * [Branchs](branchs_e_fluxos/01_branchs.md)
+  * [Merge](branchs_e_fluxos/02_merge.md)
+  * [Git Flow](branchs_e_fluxos/03_git_flow.md)
 * Commits Convencionais
   * <del> [O Que São Commits Convencionais]()</del>
   * <del> [Como Usar]() </del>
