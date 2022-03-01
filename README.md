@@ -1,5 +1,5 @@
 # GIT
-Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de versionamento [Git](https://pt.wikipedia.org/wiki/Git)
+Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de controle de versionamento [Git](https://pt.wikipedia.org/wiki/Git)
 
 ---
 
@@ -20,11 +20,11 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
   * <del> [Adicionando Arquivos]()</del>
   * <del> [Removendo Arquivos]()</del>
   * <del> [Sincronizando os Repositórios]()</del>
-* Git Flow
-  * <del> [Entendendo Branchs]()</del>
-  * <del> [Entendendo Merge]()</del>
-  * <del> [O Que É Git Flow]()</del>
-  * <del> [Implementação]() </del>
+* Branchs e Fluxos
+  * [Branchs](branchs_e_fluxos/branchs.md)
+  * [Merge](branchs_e_fluxos/merge.md)
+  * [Git Flow](branchs_e_fluxos/git_flow.md)
+  * [Implementação](branchs_e_fluxos/implementação.md)
 * Commits Convencionais
   * <del> [O Que São Commits Convencionais]()</del>
   * <del> [Como Usar]() </del>
@@ -33,4 +33,4 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de vers
 
 ## Contribuições
 
-Sinta-se a vontade para adicionar mais informações ou realizar correções. Ficaremos muito contente e grato com sua contribuição.
+Sinta-se a vontade para adicionar mais informações ou realizar correções. Ficaremos muito contentes e grato com sua contribuição.

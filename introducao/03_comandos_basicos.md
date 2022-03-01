@@ -12,7 +12,7 @@ git init
 git status
 ```
 <ul>
-    <li>Quando um arquivo for removido ou modificado, o mesmo aparecerá como untracked file ( na cor vermelha). Indicando que deverá adicionar o arquivo/diretório (Staged Area)
+    <li>Quando um arquivo for removido ou modificado, o mesmo aparecerá como untracked file (na cor vermelha). Indicando que deverá adicionar o arquivo/diretório (Staged Area)
     </li>
 </ul>
 
@@ -29,7 +29,7 @@ git add .
 
 <h3>Remover arquivo/diretório</h3>
 
-<strong style="font-size:12px; color:gray;"> Remover um aquivo específico</strong>
+<strong style="font-size:12px; color:gray;"> Remover um arquivo específico</strong>
 ```
 git rm nome_arquivo.txt
 ```
