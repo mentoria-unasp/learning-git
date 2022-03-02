@@ -21,8 +21,8 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de cont
   * [Adicionando Arquivos](usando_git_github/03_adicionando_arquivos.md)
   * [Removendo Arquivos](usando_git_github/04_removendo_arquivo.md)
 * Ramificações
-  * [Branchs](branchs_e_fluxos/01_branchs.md)
-  * [Merge](branchs_e_fluxos/02_merge.md)
+  * [Branchs](ramificacoes/01_branchs.md)
+  * [Merge](ramificacoes/02_merge.md)
 * Boas Práticas
   * [Git Flow](boas_praticas/01_git_flow.md)
   * [Commits Convencionais](boas_praticas/02_commits_convencionais.md)
