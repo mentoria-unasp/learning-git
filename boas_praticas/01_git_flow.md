@@ -148,9 +148,9 @@ Nessa última etapa é criada uma tag com a versão atual do projeto na branch `
   ```
   
 ## Links
-[Branch](01_branchs.md)
+[Branch](ramificacoes/01_branchs.md)
 
-[Merge](02_Merge.md)
+[Merge](ramificacoes/02_Merge.md)
 
 [Versionamento Semântico](https://semver.org/lang/pt-BR/)
 

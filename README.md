@@ -1,4 +1,4 @@
-# GIT
+# Git
 Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de controle de versionamento [Git](https://pt.wikipedia.org/wiki/Git)
 
 ---
@@ -20,16 +20,14 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de cont
   * [Configurando SSH Key](usando_git_github/02_configurando_ssh_key.md)
   * [Adicionando Arquivos](usando_git_github/03_adicionando_arquivos.md)
   * [Removendo Arquivos](usando_git_github/04_removendo_arquivo.md)
-* Git Flow
+* Ramificações
   * [Branchs](branchs_e_fluxos/01_branchs.md)
   * [Merge](branchs_e_fluxos/02_merge.md)
-  * [Git Flow](branchs_e_fluxos/03_git_flow.md)
-* Commits Convencionais
-  * <del> [O Que São Commits Convencionais]()</del>
-  * <del> [Como Usar]() </del>
+* Boas Práticas
+  * [Git Flow](boas_praticas/01_git_flow.md)
+  * [Commits Convencionais](boas_praticas/02_commits_convencionais.md)
 * Open Source
   * <del> [Fazendo Contribuições]()</del>
 
 ## Contribuições
-
 Sinta-se a vontade para adicionar mais informações ou realizar correções. Ficaremos muito contentes e grato com sua contribuição.
