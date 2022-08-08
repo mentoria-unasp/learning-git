@@ -26,8 +26,10 @@ Este repositório irá abordar alguns tópicos sobre o uso da ferramenta de cont
 * Boas Práticas
   * [Git Flow](boas_praticas/01_git_flow.md)
   * [Commits Convencionais](boas_praticas/02_commits_convencionais.md)
+* Github Pages
+  * [Configuração](github_pages/01_configuracao.md)
 * Open Source
-  * <del> [Fazendo Contribuições]()</del>
+  * [Pull Request](open_source/01_pull_request.md)
 
 ## Contribuições
 Sinta-se a vontade para adicionar mais informações ou realizar correções. Ficaremos muito contentes e grato com sua contribuição.
